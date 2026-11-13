@@ -1,78 +1,105 @@
 
-
 <div align="center">
 
-  <h1>Hi, I'm Shiyam Srivasthan 👋</h1>
+# Hi, I'm Shiyam Srivasthan 👋
 
-  <p>
-    <strong>Software Engineering · Backend Development · Cloud Infrastructure</strong>
-  </p>
+**Software Engineering · Backend Development · Cloud Infrastructure**
 
-  <p>B.Tech Undergraduate at <strong>IIT Kharagpur</strong></p>
+B.Tech Undergraduate at **IIT Kharagpur**
 
-  <p>
-    <a href="https://www.linkedin.com/in/shiyam-srivasthan/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-           alt="LinkedIn"
-           width="22"
-           height="22"
-           align="absmiddle" />
-      <strong>LinkedIn</strong>
-    </a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/shiyam-srivasthan/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="22" height="22" align="absmiddle" />
+    <strong>LinkedIn</strong>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 A little about me
 
-I'm an engineering undergraduate interested in building reliable software, from backend services and real-time applications to cloud infrastructure.
+I enjoy building software and figuring out how things work under the hood, especially when it comes to backend systems, real-time applications, and algorithms.
 
-I've gained hands-on experience through software development and cloud engineering internships, and I enjoy solving problems involving algorithms and practical system design.
+This is where I share the projects I've built, ideas I've experimented with, and things I've learned along the way.
 
-### 🚀 Featured Projects
+### 🚀 Things I've built
 
-**[SyncWave](https://github.com/Shiyam-Srivasthan/syncwave)** · *Team Project*
+**🎵 [SyncWave](https://github.com/Shiyam-Srivasthan/syncwave)** · *Team Project*
 
-Real-time multi-device audio synchronization using server-authoritative scheduling, clock synchronization, and drift correction.
+What started as an idea to play music together across multiple devices turned into an exploration of real-time communication, clock synchronization, and keeping distributed clients in sync.
 
-`React` `Node.js` `Socket.IO` `Web Audio API`
+**🗺️ [RouteFlux](https://github.com/Shiyam-Srivasthan/RouteFlux)**
 
-**[RouteFlux](https://github.com/Shiyam-Srivasthan/RouteFlux)**
+Exploring how graph algorithms find efficient routes, with Dijkstra and A* navigating road networks under simulated traffic conditions and road closures.
 
-Graph-based route optimization using Dijkstra's algorithm and A*, with simulated traffic conditions and dynamic rerouting.
+**📦 [DropVault](https://github.com/Shiyam-Srivasthan/DropVault)**
 
-`Python` `FastAPI` `React`
+A temporary file-sharing service built around a simple idea: share files through links that expire, with control over access and downloads.
 
-**[DropVault](https://github.com/Shiyam-Srivasthan/DropVault)**
 
-Temporary file-sharing application with expiring links, download limits, and optional password protection.
 
-`Node.js` `Express` `MySQL` `React`
 
-### 💼 Experience
+### ⚙️ Technologies I Work With
 
-**Cloud Engineering Intern | DBiz.ai**
-- Worked on application deployment using Microsoft Azure, Terraform, and Docker.
+<div align="center">
 
-**Software Developer Intern | SriD Software Solutions**
-- Worked on an attendance and leave management platform using Node.js, MySQL, and Redis.
+<table>
+<tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=python" width="42" /><br>
+  <sub>Python</sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=js" width="42" /><br>
+  <sub>JavaScript</sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=react" width="42" /><br>
+  <sub>React</sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="42" /><br>
+  <sub>Node.js</sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mysql" width="42" /><br>
+  <sub>MySQL</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=redis" width="42" /><br>
+  <sub>Redis</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=docker" width="42" /><br>
+  <sub>Docker</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=azure" width="42" /><br>
+  <sub>Azure</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=terraform" width="42" /><br>
+  <sub>Terraform</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="42" /><br>
+  <sub>Git</sub>
+</td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack
+</div>
 
-**Languages:** Python, JavaScript, SQL, C
-
-**Frontend & Backend:** React, Node.js, Express, FastAPI, Socket.IO
-
-**Databases:** MySQL, Redis
-
-**Cloud & Tools:** Azure, Terraform, Docker, Git, GitHub
 
 ---
 
 <div align="center">
 
-**Explore my repositories to see what I've been working on.**
+<sub>Thanks for visiting! Feel free to explore my repositories.</sub>
 
 </div>
