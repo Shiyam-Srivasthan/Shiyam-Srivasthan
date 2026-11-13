@@ -1,14 +1,25 @@
 
+
 <div align="center">
 
-# Hi, I'm Shiyam Srivasthan 👋
+  <h1>Hi, I'm Shiyam Srivasthan 👋</h1>
 
-**Software Engineering · Backend Development · Cloud Infrastructure**
+  <p>
+    <strong>Software Engineering · Backend Development · Cloud Infrastructure</strong>
+  </p>
 
-B.Tech Undergraduate at **IIT Kharagpur**
+  <p>B.Tech Undergraduate at <strong>IIT Kharagpur</strong></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiyam-srivasthan/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Shiyam-Srivasthan?tab=repositories)
+  <p>
+    <a href="https://www.linkedin.com/in/shiyam-srivasthan/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+           alt="LinkedIn"
+           width="22"
+           height="22"
+           align="absmiddle" />
+      <strong>LinkedIn</strong>
+    </a>
+  </p>
 
 </div>
 
