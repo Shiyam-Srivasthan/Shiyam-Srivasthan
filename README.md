@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Shiyam Srivasthan 👋
+# Hi, I'm Shiyam Srivasthan J 👋
 
 **Software Engineering · Backend Development · Cloud Infrastructure**
 
